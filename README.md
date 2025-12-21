@@ -1,7 +1,5 @@
-## Run Locally
 
-**Prerequisites:**  Node.js<img width="1000" height="1000" alt="LOGO" src="https://github.com/user-attachments/assets/28378045-6ac8-445e-8dc4-e92774c0b283" />
-
+![Milcorx-Logo](https://github.com/user-attachments/assets/a06a10fd-6ee7-498c-98d8-4f5cf6e2fe13)
 
 
 1. Install dependencies:
