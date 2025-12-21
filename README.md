@@ -1,12 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1kqjdIxZSV-20RaEE2WtA8VqxW1hueeRl
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .banner {
+            width: 1200px;
+            height: 475px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-family: 'Arial', sans-serif;
+        }
+        .ai-text {
+            font-size: 72px;
+            font-weight: bold;
+            letter-spacing: 2px;
+        }
+        .milcorx-text {
+            font-size: 48px;
+            margin: 10px 0;
+            font-weight: 600;
+        }
+        .performance-text {
+            font-size: 24px;
+            letter-spacing: 1px;
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        <div class="ai-text">AI</div>
+        <div class="milcorx-text">MILCORX</div>
+        <div class="performance-text">e-Xtreme Performance</div>
+    </div>
+</body>
+</html>
 
 ## Run Locally
 
